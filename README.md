@@ -7,17 +7,17 @@ File: heart_disease.csv
 Description: The dataset contains medical attributes of patients, such as age, cholesterol levels, blood pressure, and more, with a target variable indicating the presence of heart disease.
 
 # Columns: (Example)
-Age
-Sex
-Chest Pain Type
-Resting Blood Pressure
-Cholesterol
-Fasting Blood Sugar
-Resting ECG
-Maximum Heart Rate
-Exercise-Induced Angina
-ST Depression
-Slope of Peak Exercise
-Number of Major Vessels
-Thalassemia
+Age ,
+Sex ,
+Chest Pain Type ,
+Resting Blood Pressure ,
+Cholesterol ,
+Fasting Blood Sugar ,
+Resting ECG ,
+Maximum Heart Rate ,
+Exercise-Induced Angina ,
+ST Depression ,
+Slope of Peak Exercise ,
+Number of Major Vessels ,
+Thalassemia ,
 Target (Heart Disease: 1 = Present, 0 = Absent)
